@@ -1,0 +1,139 @@
+Program 1
+
+
+Sooraya Qadir has borrowed laptop 23662766 and moved to TA line.
+Alisa Tager has borrowed laptop 70571329 and moved to TA line.
+Selene Gallio has borrowed laptop 46933604 and moved to TA line.
+Rita Wayword has borrowed laptop 28698737 and moved to TA line.
+Cecilia Reyes has borrowed laptop 68428759 and moved to TA line.
+Sean Cassidy has borrowed laptop 45594438 and moved to TA line.
+Alexander Summers has borrowed laptop 42320451 and moved to TA line.
+Neal Shaara has borrowed laptop 24350204 and moved to TA line.
+Nicholas Gleason has borrowed laptop 35073907 and moved to TA line.
+Xi'an Manh has borrowed laptop 47235759 and moved to TA line.
+Jean-Paul Beaubier has borrowed laptop 16994365 and moved to TA line.
+Danielle Moonstar has borrowed laptop 71281199 and moved to TA line.
+Tandy Bowen has borrowed laptop 89594006 and moved to TA line.
+Samuel Guthrie has borrowed laptop 14759708 and moved to TA line.
+Santo Vaccarro has borrowed laptop 88812998 and moved to TA line.
+James Bradley has borrowed laptop 24124626 and moved to TA line.
+Paige Guthrie has borrowed laptop 67237465 and moved to TA line.
+James Proudstar has borrowed laptop 49976149 and moved to TA line.
+Christy Nord has borrowed laptop 91160324 and moved to TA line.
+Julian Keller has borrowed laptop 91457419 and moved to TA line.
+Sooraya is getting help from Charles
+Sooraya had one question answered
+Sooraya had questions left to ask
+Alisa is getting help from Max
+Alisa had one question answered
+Alisa Tager has returned laptop 70571329 and went home Happy
+Selene is getting help from Charles
+Selene had one question answered
+Selene Gallio has returned laptop 46933604 and went home Frustrated
+Rita is getting help from Max
+Rita had one question answered
+Rita Wayword has returned laptop 28698737 and went home Frustrated
+Cecilia is getting help from Charles
+Cecilia had one question answered
+Cecilia Reyes has returned laptop 68428759 and went home Happy
+Sean is getting help from Max
+Sean had one question answered
+Sean Cassidy has returned laptop 45594438 and went home Frustrated
+Alexander is getting help from Charles
+Alexander had one question answered
+Alexander Summers has returned laptop 42320451 and went home Frustrated
+Neal is getting help from Max
+Neal had one question answered
+Neal had questions left to ask
+Nicholas is getting help from Charles
+Nicholas had one question answered
+Nicholas Gleason has returned laptop 35073907 and went home Frustrated
+Xi'an is getting help from Max
+Xi'an had one question answered
+Xi'an had questions left to ask
+Jean-Paul is getting help from Charles
+Jean-Paul had one question answered
+Jean-Paul had questions left to ask
+Danielle is getting help from Max
+Danielle had one question answered
+Danielle Moonstar has returned laptop 71281199 and went home Happy
+Tandy is getting help from Charles
+Tandy had one question answered
+Tandy had questions left to ask
+Samuel is getting help from Max
+Samuel had one question answered
+Samuel had questions left to ask
+Santo is getting help from Charles
+Santo had one question answered
+Santo had questions left to ask
+James is getting help from Max
+James had one question answered
+James Bradley has returned laptop 24124626 and went home Happy
+Paige is getting help from Charles
+Paige had one question answered
+Paige had questions left to ask
+James is getting help from Max
+James had one question answered
+James Proudstar has returned laptop 49976149 and went home Frustrated
+Christy is getting help from Charles
+Christy had one question answered
+Christy Nord has returned laptop 91160324 and went home Happy
+Julian is getting help from Max
+Julian had one question answered
+Julian had questions left to ask
+Sooraya is getting help from Charles
+Sooraya had one question answered
+Sooraya had questions left to ask
+Neal is getting help from Max
+Neal had one question answered
+Neal had questions left to ask
+Xi'an is getting help from Charles
+Xi'an had one question answered
+Xi'an had questions left to ask
+Jean-Paul is getting help from Max
+Jean-Paul had one question answered
+Jean-Paul Beaubier has returned laptop 16994365 and went home Frustrated
+Tandy is getting help from Charles
+Tandy had one question answered
+Tandy Bowen has returned laptop 89594006 and went home Frustrated
+Samuel is getting help from Max
+Samuel had one question answered
+Samuel Guthrie has returned laptop 14759708 and went home Frustrated
+Santo is getting help from Charles
+Santo had one question answered
+Santo Vaccarro has returned laptop 88812998 and went home Frustrated
+Paige is getting help from Max
+Paige had one question answered
+Paige had questions left to ask
+Julian is getting help from Charles
+Julian had one question answered
+Julian Keller has returned laptop 91457419 and went home Frustrated
+Sooraya is getting help from Max
+Sooraya had one question answered
+Sooraya had questions left to ask
+Neal is getting help from Charles
+Neal had one question answered
+Neal Shaara has returned laptop 24350204 and went home Happy
+Xi'an is getting help from Max
+Xi'an had one question answered
+Xi'an had questions left to ask
+Paige is getting help from Charles
+Paige had one question answered
+Paige had questions left to ask
+Sooraya is getting help from Max
+Sooraya had one question answered
+Sooraya Qadir has returned laptop 23662766 and went home Frustrated
+Xi'an is getting help from Charles
+Xi'an had one question answered
+Xi'an Manh has returned laptop 47235759 and went home Frustrated
+Paige is getting help from Max
+Paige had one question answered
+Paige Guthrie has returned laptop 67237465 and went home Frustrated
+Charles has left
+Max has left
+Program 2
+
+
+Program 3
+
+
